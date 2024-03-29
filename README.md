@@ -1,5 +1,5 @@
-# CV Study Notes
-This is a collection of learning notes on computer vision. This repository aims to document my learning journey and gather useful resources to help me dive deep into the concepts, algorithms, and applications of computer vision.
+# CVDL Study Notes
+This is a collection of learning notes on computer vision using deep learning. This repository aims to document my learning journey and gather useful resources to help me dive deep into the concepts, algorithms, and applications of computer vision.
 
 Contributions of notes, code examples, and learning resources from individuals interested in computer vision are welcome. Submit PRs or suggest ideas in the Issues section.
 
@@ -9,11 +9,17 @@ Contributions of notes, code examples, and learning resources from individuals i
 - Learning Resources: Curated tutorials, papers, and online course links related to computer vision.
 
 # Weekly Learning Progress
-
-## Week 1
+## Semantic Segmentation
+### Week 1
 - [AlexNet for MNIST](./week_1/AlexNet-MNIST.ipynb)
-- [Introduction to Stereo Matching](./week_1/978-981-99-4287-9.pdf)
+- [Introduction to Stereo Matching](https://link.springer.com/chapter/10.1007/978-981-99-4287-9_3)
 
-## Week 2
-- FCN
-- UNet
+### Week 2
+- Dataset: [Pascal VOC 2012 Segmentation](./week_2/VOCLoader.py)
+- [FCN](./week_2/FCN.ipynb)
+  - [Transposed Convolution (Upsampling)](https://zhuanlan.zhihu.com/p/48501100)
+- [UNet](./week_2/UNet.ipynb)
+
+### Week 3
+- ResNet-18-152
+- SNE-RoadSeg

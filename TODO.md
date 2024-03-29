@@ -7,7 +7,7 @@
 4. [x] 熟悉Google Scholar、科学上网工具。
 
 ## Week 2
-1. [ ] 熟悉FCN、UNet，手写相关网络，实现语义分割。
+1. [x] 熟悉FCN、UNet，手写相关网络，实现语义分割。
 
 ## Week 3
 1. [ ] 阅读ResNet-18-152结构、代码
