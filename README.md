@@ -8,18 +8,18 @@ Contributions of notes, code examples, and learning resources from individuals i
 - Code Examples: Contains code examples of computer vision algorithms I've implemented during my learning process.
 - Learning Resources: Curated tutorials, papers, and online course links related to computer vision.
 
-# Weekly Learning Progress
+# Learning Progress
 ## Semantic Segmentation
-### Week 1
+### Stage 1
 - [AlexNet for MNIST](./week_1/AlexNet-MNIST.ipynb)
 - [Introduction to Stereo Matching](https://link.springer.com/chapter/10.1007/978-981-99-4287-9_3)
 
-### Week 2
+### Stage 2
 - Dataset: [Pascal VOC 2012 Segmentation](./week_2/VOCLoader.py)
 - [FCN](./week_2/FCN.ipynb)
   - [Transposed Convolution (Upsampling)](https://zhuanlan.zhihu.com/p/48501100)
 - [UNet](./week_2/UNet.ipynb)
 
-### Week 3
+### Stage 3
 - ResNet-18-152
 - SNE-RoadSeg

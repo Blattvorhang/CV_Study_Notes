@@ -11,5 +11,6 @@
 
 ## Week 3
 1. [ ] 阅读ResNet-18-152结构、代码
-2. [ ] 阅读SNE-RoadSeg论文、代码，能跑起来，搞清楚每行代码原理。
+2. [ ] 阅读[SNE-RoadSeg](https://github.com/hlwang1124/SNE-RoadSeg)论文、代码，能跑起来，搞清楚每行代码原理。
 3. [ ] 阅读这篇论文：https://link.springer.com/chapter/10.1007/978-981-99-4287-9_4
+4. [ ] 粗读（联合学习）：https://arxiv.org/pdf/2401.11414v1.pdf
